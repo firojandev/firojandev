@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on python django framework & machine learning
-- 🌱 I’m currently learning on Data Science & Deep Learning
+- 🔭 I’m currently working on object detection, classification, model training & python django framework
+- 🌱 I’m currently learning on advance Data Science, Machine & Deep Learning
 - 📫 How to reach me: https://www.linkedin.com/in/altaf-hoshain-firoj/
 
 <!--
