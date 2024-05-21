@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on mobile application development [Android, Fliutter] & Spring Boot
+- 🔭 I’m currently working on mobile application development [Android,iOS,Fliutter]
 - 🌱 I’m currently learning on advance Data Science, Machine & Deep Learning
 - 📫 How to reach me: https://www.linkedin.com/in/altaf-hoshain-firoj/
 
