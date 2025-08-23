@@ -1,7 +1,6 @@
-### I'm Altaf Hoshain Firoj, Analyst Programmer!
+### I'm Altaf Hoshain Firoj, Senior Engineer at XR Tech, UK!
 - 🎓 B.Sc & M.Sc in in Computer Science & Engineering.
 - 🔭 I’m currently working on mobile application development [Native iOS & Android,Flutter]
-- 🌱 I’m currently learning on advance Data Science, Machine & Deep Learning
 - 📫 How to reach me: https://www.linkedin.com/in/altaf-hoshain-firoj/
 
 ![](https://komarev.com/ghpvc/?username=firojandev&color=brightgreen&style=plastic)
